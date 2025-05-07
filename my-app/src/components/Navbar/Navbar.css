@@ -1,0 +1,12 @@
+.nav-link{
+    font-size: 18pt;
+    color:white;
+    padding: 4px;
+    margin-left: 10px;
+    background-color: #0e90b1;
+    border-radius: 5px;
+}
+.navbar{
+    background-color: #BEEEFA;
+    border-radius: 12px;
+}
